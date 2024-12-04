@@ -1,0 +1,17 @@
+{
+    "name": "victor/baze",
+    "autoload": {
+        "psr-4": {
+            "Victor\\Baze\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dabija Victor",
+            "email": "victorsvlogs31@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
